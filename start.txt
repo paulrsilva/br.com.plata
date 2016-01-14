@@ -1,1 +1,3 @@
 teste de inclusão no Git
+verificando adições no GIT
+
